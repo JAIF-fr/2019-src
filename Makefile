@@ -19,6 +19,9 @@ update_pdf_links: $(LINKS)
 %.pdf:
 	cd pdf && ln -s ../media/pdf/$(shell basename $@) .
 
+deploy: push
+.PHONY: deploy
+
 push: rebuild
 	git submodule update --remote --merge
 	rsync -avr --delete --exclude='.git'  _site/ site/
