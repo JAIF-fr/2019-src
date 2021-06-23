@@ -10,9 +10,9 @@ Jeudi 23 mai 2019, Minatec, Grenoble
 
 ** Description
 
-Cette journée s’inscrit dans la suite de la journée [[https://lazart.gricad-pages.univ-grenoble-alpes.fr/sertif/pages/workshop.html][SERTIF]] organisée
+Cette journée s’inscrit dans la suite de la journée [[https://jaif.io/2016][SERTIF]] organisée
 en 2016 à Grenoble,
-puis de la journée [[https://wp-systeme.lip6.fr/jaif][JAIF]] organisée en 2018 à Paris.
+puis de la journée [[https://jaif.io/2018][JAIF]] organisée en 2018 à Paris.
 
 Ce workshop a pour objectif de réunir la communauté de la recherche
 française en analyse de fautes sur des systèmes de sécurité, pour
@@ -53,7 +53,7 @@ discussions.
 +   Karine Heydemann, Sorbonne Université / LIP6
 +   Marie-Laure Potet, VÉRIMAG,  Grenoble Alpes Cybersecurity Institute
 
-Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr][jaif2019@saxifrage.saclay.cea.fr]]
+Contact: [[mailto:jaif2019@saxifrage.saclay.cea.fr][jaif@saxifrage.saclay.cea.fr]]
 
 ** Soutien
 
